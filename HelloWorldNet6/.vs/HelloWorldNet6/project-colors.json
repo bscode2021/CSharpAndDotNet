@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bbc17ef5-fe70-4e4d-b2bd-88126c6a85f1": {
+      "ProjectGuid": "bbc17ef5-fe70-4e4d-b2bd-88126c6a85f1",
+      "DisplayName": "HelloWorldNet6",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

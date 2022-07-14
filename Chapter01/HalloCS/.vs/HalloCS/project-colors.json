@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0e048910-dce8-4228-853d-4cbf1cc2ddbe": {
+      "ProjectGuid": "0e048910-dce8-4228-853d-4cbf1cc2ddbe",
+      "DisplayName": "HalloCS",
+      "ColorIndex": 0
+    },
+    "b5128f2b-38c1-4c37-8a63-05746b095a1f": {
+      "ProjectGuid": "b5128f2b-38c1-4c37-8a63-05746b095a1f",
+      "DisplayName": "TopLevelProgram",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

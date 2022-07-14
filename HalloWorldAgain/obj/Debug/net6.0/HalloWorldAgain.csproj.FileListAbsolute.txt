@@ -1,0 +1,15 @@
+C:\Users\Srezovski\OneDrive\Desktop\CA\FullStackDotNetRepositories\BSCode\CSharpAndDotNet\HalloWorldAgain\bin\Debug\net6.0\HalloWorldAgain.exe
+C:\Users\Srezovski\OneDrive\Desktop\CA\FullStackDotNetRepositories\BSCode\CSharpAndDotNet\HalloWorldAgain\bin\Debug\net6.0\HalloWorldAgain.deps.json
+C:\Users\Srezovski\OneDrive\Desktop\CA\FullStackDotNetRepositories\BSCode\CSharpAndDotNet\HalloWorldAgain\bin\Debug\net6.0\HalloWorldAgain.runtimeconfig.json
+C:\Users\Srezovski\OneDrive\Desktop\CA\FullStackDotNetRepositories\BSCode\CSharpAndDotNet\HalloWorldAgain\bin\Debug\net6.0\HalloWorldAgain.dll
+C:\Users\Srezovski\OneDrive\Desktop\CA\FullStackDotNetRepositories\BSCode\CSharpAndDotNet\HalloWorldAgain\bin\Debug\net6.0\ref\HalloWorldAgain.dll
+C:\Users\Srezovski\OneDrive\Desktop\CA\FullStackDotNetRepositories\BSCode\CSharpAndDotNet\HalloWorldAgain\bin\Debug\net6.0\HalloWorldAgain.pdb
+C:\Users\Srezovski\OneDrive\Desktop\CA\FullStackDotNetRepositories\BSCode\CSharpAndDotNet\HalloWorldAgain\obj\Debug\net6.0\HalloWorldAgain.csproj.AssemblyReference.cache
+C:\Users\Srezovski\OneDrive\Desktop\CA\FullStackDotNetRepositories\BSCode\CSharpAndDotNet\HalloWorldAgain\obj\Debug\net6.0\HalloWorldAgain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Srezovski\OneDrive\Desktop\CA\FullStackDotNetRepositories\BSCode\CSharpAndDotNet\HalloWorldAgain\obj\Debug\net6.0\HalloWorldAgain.AssemblyInfoInputs.cache
+C:\Users\Srezovski\OneDrive\Desktop\CA\FullStackDotNetRepositories\BSCode\CSharpAndDotNet\HalloWorldAgain\obj\Debug\net6.0\HalloWorldAgain.AssemblyInfo.cs
+C:\Users\Srezovski\OneDrive\Desktop\CA\FullStackDotNetRepositories\BSCode\CSharpAndDotNet\HalloWorldAgain\obj\Debug\net6.0\HalloWorldAgain.csproj.CoreCompileInputs.cache
+C:\Users\Srezovski\OneDrive\Desktop\CA\FullStackDotNetRepositories\BSCode\CSharpAndDotNet\HalloWorldAgain\obj\Debug\net6.0\HalloWorldAgain.dll
+C:\Users\Srezovski\OneDrive\Desktop\CA\FullStackDotNetRepositories\BSCode\CSharpAndDotNet\HalloWorldAgain\obj\Debug\net6.0\ref\HalloWorldAgain.dll
+C:\Users\Srezovski\OneDrive\Desktop\CA\FullStackDotNetRepositories\BSCode\CSharpAndDotNet\HalloWorldAgain\obj\Debug\net6.0\HalloWorldAgain.pdb
+C:\Users\Srezovski\OneDrive\Desktop\CA\FullStackDotNetRepositories\BSCode\CSharpAndDotNet\HalloWorldAgain\obj\Debug\net6.0\HalloWorldAgain.genruntimeconfig.cache
