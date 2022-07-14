@@ -69,4 +69,6 @@ for (int i = 0; i < myArray.Length; i++)
 
 string[] names2 = new string[] { "Kate", "Jack", "Rebecca", "Tom" };
 int[] broevi = new int[] { 12, 33, 1, 5, 6 };
-int[] broevi2 = new int[5]; 
+int[] broevi2 = new int[5];
+
+Console.WriteLine($"{names2}{broevi}{broevi2}");
