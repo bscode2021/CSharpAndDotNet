@@ -1,0 +1,12 @@
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\CSharpAndDotNet\Chapter06\PeopleLib\bin\Debug\net6.0\PeopleLib.deps.json
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\CSharpAndDotNet\Chapter06\PeopleLib\bin\Debug\net6.0\PeopleLib.dll
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\CSharpAndDotNet\Chapter06\PeopleLib\bin\Debug\net6.0\ref\PeopleLib.dll
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\CSharpAndDotNet\Chapter06\PeopleLib\bin\Debug\net6.0\PeopleLib.pdb
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\CSharpAndDotNet\Chapter06\PeopleLib\obj\Debug\net6.0\PeopleLib.csproj.AssemblyReference.cache
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\CSharpAndDotNet\Chapter06\PeopleLib\obj\Debug\net6.0\PeopleLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\CSharpAndDotNet\Chapter06\PeopleLib\obj\Debug\net6.0\PeopleLib.AssemblyInfoInputs.cache
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\CSharpAndDotNet\Chapter06\PeopleLib\obj\Debug\net6.0\PeopleLib.AssemblyInfo.cs
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\CSharpAndDotNet\Chapter06\PeopleLib\obj\Debug\net6.0\PeopleLib.csproj.CoreCompileInputs.cache
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\CSharpAndDotNet\Chapter06\PeopleLib\obj\Debug\net6.0\PeopleLib.dll
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\CSharpAndDotNet\Chapter06\PeopleLib\obj\Debug\net6.0\ref\PeopleLib.dll
+C:\Users\Srezovski\OneDrive\CA\Repositories\BSCode\CSharpAndDotNet\Chapter06\PeopleLib\obj\Debug\net6.0\PeopleLib.pdb

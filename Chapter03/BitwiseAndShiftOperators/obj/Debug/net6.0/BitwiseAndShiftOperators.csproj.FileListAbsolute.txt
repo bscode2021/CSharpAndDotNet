@@ -1,0 +1,14 @@
+C:\Users\Srezovski\OneDrive\CA\FullStackDotNetRepositories\BSCode\CSharpAndDotNet\Chapter03\BitwiseAndShiftOperators\bin\Debug\net6.0\BitwiseAndShiftOperators.exe
+C:\Users\Srezovski\OneDrive\CA\FullStackDotNetRepositories\BSCode\CSharpAndDotNet\Chapter03\BitwiseAndShiftOperators\bin\Debug\net6.0\BitwiseAndShiftOperators.deps.json
+C:\Users\Srezovski\OneDrive\CA\FullStackDotNetRepositories\BSCode\CSharpAndDotNet\Chapter03\BitwiseAndShiftOperators\bin\Debug\net6.0\BitwiseAndShiftOperators.runtimeconfig.json
+C:\Users\Srezovski\OneDrive\CA\FullStackDotNetRepositories\BSCode\CSharpAndDotNet\Chapter03\BitwiseAndShiftOperators\bin\Debug\net6.0\BitwiseAndShiftOperators.dll
+C:\Users\Srezovski\OneDrive\CA\FullStackDotNetRepositories\BSCode\CSharpAndDotNet\Chapter03\BitwiseAndShiftOperators\bin\Debug\net6.0\ref\BitwiseAndShiftOperators.dll
+C:\Users\Srezovski\OneDrive\CA\FullStackDotNetRepositories\BSCode\CSharpAndDotNet\Chapter03\BitwiseAndShiftOperators\bin\Debug\net6.0\BitwiseAndShiftOperators.pdb
+C:\Users\Srezovski\OneDrive\CA\FullStackDotNetRepositories\BSCode\CSharpAndDotNet\Chapter03\BitwiseAndShiftOperators\obj\Debug\net6.0\BitwiseAndShiftOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Srezovski\OneDrive\CA\FullStackDotNetRepositories\BSCode\CSharpAndDotNet\Chapter03\BitwiseAndShiftOperators\obj\Debug\net6.0\BitwiseAndShiftOperators.AssemblyInfoInputs.cache
+C:\Users\Srezovski\OneDrive\CA\FullStackDotNetRepositories\BSCode\CSharpAndDotNet\Chapter03\BitwiseAndShiftOperators\obj\Debug\net6.0\BitwiseAndShiftOperators.AssemblyInfo.cs
+C:\Users\Srezovski\OneDrive\CA\FullStackDotNetRepositories\BSCode\CSharpAndDotNet\Chapter03\BitwiseAndShiftOperators\obj\Debug\net6.0\BitwiseAndShiftOperators.csproj.CoreCompileInputs.cache
+C:\Users\Srezovski\OneDrive\CA\FullStackDotNetRepositories\BSCode\CSharpAndDotNet\Chapter03\BitwiseAndShiftOperators\obj\Debug\net6.0\BitwiseAndShiftOperators.dll
+C:\Users\Srezovski\OneDrive\CA\FullStackDotNetRepositories\BSCode\CSharpAndDotNet\Chapter03\BitwiseAndShiftOperators\obj\Debug\net6.0\ref\BitwiseAndShiftOperators.dll
+C:\Users\Srezovski\OneDrive\CA\FullStackDotNetRepositories\BSCode\CSharpAndDotNet\Chapter03\BitwiseAndShiftOperators\obj\Debug\net6.0\BitwiseAndShiftOperators.pdb
+C:\Users\Srezovski\OneDrive\CA\FullStackDotNetRepositories\BSCode\CSharpAndDotNet\Chapter03\BitwiseAndShiftOperators\obj\Debug\net6.0\BitwiseAndShiftOperators.genruntimeconfig.cache
